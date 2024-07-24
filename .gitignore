@@ -1,0 +1,7 @@
+venv
+pycache_
+__pycache__/
+*.py[cod]
+*$py.class
+
+tempCodeRunnerFile.py
